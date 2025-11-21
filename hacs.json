@@ -1,5 +1,6 @@
 {
   "name": "stash-home-assistant",
    "render_readme": true,
-   "homeassistant": "2025.10.0"
+   "homeassistant": "2025.1.0"
+
  }
